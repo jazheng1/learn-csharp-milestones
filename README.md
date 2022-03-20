@@ -123,7 +123,7 @@ Working with Classes, Structs, and OOP (94–119)
 		- [X] Instantiate two new Weapon objects `huntingBow` and `warBow` from the `Weapon` struct
 		- [X] Print out each weapons' data
 - Child classes
-	- [ X] Update Assets/Scripts/Character.cs
+	- [X] Update Assets/Scripts/Character.cs
 		- [X] Add a `Paladin` child class of `Character`
 		- [X] Create a `Weapon` field inside the Paladin class
 		- [X] Create a `Paladin()` constructor that calls the `base()` constructor. Populate the weapon in a parameter
