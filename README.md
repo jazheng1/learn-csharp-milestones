@@ -76,11 +76,7 @@ Diving into Variables, Types, and Methods (38–64)
 		- [X] Use data returned from a method
 - [X] ✏️ Explain some differences between public and private variables:
     - **Public variables:** variables that are accessible to any script without exception. They also appear on the inspector window of parent, allowing the user to edit and see the value that is stored in the variable at the time.
-<<<<<<< HEAD
 	  - **Private variables:** variables that are available to the class that it is in, and cannot be seen in the inspector window of the parent object.
-=======
-    - **Private variables:** variables that are available to the class that it is in, and cannot be seen in the inspector window of the parent object.
->>>>>>> 7a84a794cc00baac90b864cc42b895530cd76a6f
 
 
 ## Chapter 4
