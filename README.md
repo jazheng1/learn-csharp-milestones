@@ -74,27 +74,29 @@ Diving into Variables, Types, and Methods (38–64)
 		- [X] Define a simple method with parameters
 		- [X] Add a return type and return some data from a method
 		- [X] Use data returned from a method
-- [ ] ✏️ Explain some differences between public and private variables:
+- [X] ✏️ Explain some differences between public and private variables:
+    - **Public variables:** variables that are accessible to any script without exception. They also appear on the inspector window of parent, allowing the user to edit and see the value that is stored in the variable at the time.
+		- **Private variables:** variables that are available to the class that it is in, and cannot be seen in the inspector window of the parent object.
 
 
 ## Chapter 4
 Control Flow and Collection Types (65–93)
 
-- [ ] Update Assets/Scripts/LearningCurve.cs
-	- [ ] Conditionals
-		- [ ] Write `if`, `else if`, and `else` statements
-		- [ ] Test for `true` and `!true` in a conditional
-		- [ ] Write a nested `if` statement
-		- [ ] Write a `switch` statement
-	- [ ] Collections
-		- [ ] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : **??**
-		- [ ] Write an Array of the type `int[]`
-		- [ ] Write a List of the type `List<string>`
-		- [ ] Write a Dictionary of the type `Dictionary<string, int>`
-	- [ ] Loops
-		- [ ] Use a `for` loop to print a specific index of a `List<string>`
-		- [ ] Use a `foreach` loop to print all indexes of a `List<string>`
-		- [ ] Use a `foreach` loop to print the `KeyValuePair.Key` and `KeyValuePair.Value` of all indexes of a `Dictionary<string, int>`
+- [X] Update Assets/Scripts/LearningCurve.cs
+	- [X] Conditionals
+		- [X] Write `if`, `else if`, and `else` statements
+		- [X] Test for `true` and `!true` in a conditional
+		- [X] Write a nested `if` statement
+		- [X] Write a `switch` statement
+	- [X] Collections
+		- [X] ✏️ What will `arr[1]` return from this array `int[] arr = {'red','green','blue'};` ? : green
+		- [X] Write an Array of the type `int[]`
+		- [X] Write a List of the type `List<string>`
+		- [X] Write a Dictionary of the type `Dictionary<string, int>`
+	- [X] Loops
+		- [X] Use a `for` loop to print a specific index of a `List<string>`
+		- [X] Use a `foreach` loop to print all indexes of a `List<string>`
+		- [X] Use a `foreach` loop to print the `KeyValuePair.Key` and `KeyValuePair.Value` of all indexes of a `Dictionary<string, int>`
 
 
 
